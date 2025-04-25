@@ -1,0 +1,6 @@
+train: ../yolov5/datasets/images/train/
+val: ../yolov5/datasets/images/val/
+
+nc: 1
+names: ['fish']
+
